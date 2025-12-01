@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "アオゾラキャンバス",
+  "base_artist": "白鹿愛莉 (CV：夏野こおり)",
+  "createdAt": "2025-12-01T13:36:40.509339Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青空キャンパス",
+      "artist": "Sunya",
+      "has_synced": false,
+      "path": "select/pl_01_青空キャンパス_Sunya.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "青空キャンパス",
+      "artist": "Sunya",
+      "has_synced": false,
+      "path": "select/pl_02_青空キャンパス_Sunya.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "青空キャンバス",
+      "artist": "Sunya",
+      "has_synced": false,
+      "path": "select/pl_03_青空キャンバス_Sunya.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "青空キャンバス",
+      "artist": "Sunya",
+      "has_synced": false,
+      "path": "select/pl_04_青空キャンバス_Sunya.txt"
+    }
+  ]
+}
